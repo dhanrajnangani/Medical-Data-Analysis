@@ -24,4 +24,5 @@ Clear KPIs for quick decision-making
 
 Clean and professional layout for healthcare insights
 
-Dashboard = <img width="1129" height="716" alt="Screenshot 2026-02-03 161837" src="https://github.com/user-attachments/assets/2c3f167e-b44c-497b-a0a2-88bf650bca37" />
+<img width="2592" height="1632" alt="Dashboard" src="https://github.com/user-attachments/assets/d71722ff-8107-4f66-a48f-1fb7863b101f" />
+
